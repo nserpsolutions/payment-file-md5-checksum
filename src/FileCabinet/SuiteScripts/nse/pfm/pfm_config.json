@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "pfmLib": "/SuiteScripts/nse/pfm/pfm_lib.js",
+        "CryptoJS": "/SuiteScripts/nse/pfm/crypto-js/core",
+        "SHA256": "/SuiteScripts/nse/pfm/crypto-js/sha256"
+    },
+    "shim": {
+        "CryptoJS": {
+            "exports": "CryptoJS"
+        },
+        "SHA256": {
+            "exports": "SHA256"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>lava-generic</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="false">WEBSITE</feature>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">CRM</feature>
+      <feature required="false">JOBS</feature>
+      <feature required="false">ADVANCEDJOBS</feature>
+      <feature required="false">ACCOUNTING</feature>
+      <feature required="false">CREATESUITEBUNDLES</feature>
+      <feature required="false">MULTILANGUAGE</feature>
+      <feature required="false">CUSTOMSEGMENTS</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+    </features>
+    <objects>
+      <object>customrole1026</object>
+      <object>customrole_lava_departmenthead</object>
+      <object>customrole1025</object>
+      <object>customrole1036</object>
+      <object>customrole1035</object>
+      <object>customrole1019</object>
+      <object>customrole1018</object>
+      <object>customrole1017</object>
+      <object>customrole1039</object>
+      <object>customrole1030</object>
+      <object>customrecord_2663_file_admin</object>
+      <object>customrole1040</object>
+      <object>customrole1021</object>
+      <object>customrole1020</object>
+    </objects>
+  </dependencies>
+</manifest>
