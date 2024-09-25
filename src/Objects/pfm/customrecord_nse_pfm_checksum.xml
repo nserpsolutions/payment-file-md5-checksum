@@ -30,7 +30,7 @@
   <numberingmindigits></numberingmindigits>
   <numberingprefix></numberingprefix>
   <numberingsuffix></numberingsuffix>
-  <recordname>PFA MD5 Checksum</recordname>
+  <recordname>PFA SHA Checksum</recordname>
   <showcreationdate>F</showcreationdate>
   <showcreationdateonlist>F</showcreationdateonlist>
   <showid>F</showid>
@@ -100,7 +100,7 @@
       <isformula>F</isformula>
       <ismandatory>F</ismandatory>
       <isparent>F</isparent>
-      <label>MD5 Checksum SHA256</label>
+      <label>SHA Checksum</label>
       <linktext></linktext>
       <maxlength></maxlength>
       <maxvalue></maxvalue>
